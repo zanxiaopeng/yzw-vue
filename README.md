@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+# 警告
+需要配合 yzw-node-master 来进行使用 
+git clone git@github.com:zanxiaopeng/yzw-node-master.git 
+
 ## Build Setup
 
 ``` bash
